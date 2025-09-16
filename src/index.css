@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --brand-dark: #1f160f; --brand-lime: #b6e300; }
+
+/* basic prose defaults */
+body { color: #111; }
